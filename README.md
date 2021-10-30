@@ -31,7 +31,7 @@ This repository is intentionally empty and exists only as a namespace for corres
 - [Drive Badger](https://github.com/drivebadger/drivebadger/wiki) - main product Wiki
 - [Mobile Badger](https://github.com/drivebadger/mobilebadger/wiki) - secondary product, mobile version of Drive Badger
 - [field manuals](https://github.com/drivebadger/fieldmanual/wiki) - subjects beyond the product itself
-- [project Wiki](https://github.com/drivebadger/fieldmanual/wiki) - spanning all Wikis and translated projects dedicated for separate countries
+- [project Wiki](https://github.com/drivebadger/project/wiki) - spanning all Wikis and translated projects dedicated for separate countries
 
 And if you're just looking for the source code, go [here](https://github.com/drivebadger/drivebadger).
 
