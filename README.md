@@ -2,13 +2,13 @@
 
 [This Wiki](https://github.com/drivebadger/project/wiki) is a part of [Drive Badger project](https://drivebadger.com/), a set of tools for stealth data exfiltration from:
 
-1. Computers and servers:
+1. [Computers and servers](https://github.com/drivebadger/drivebadger/wiki/Tested-systems):
 
 - Windows - from XP to 11
 - Linux
 - Mac OS - at least up to Catalina
 
-2. Mobile devices (all brands and models that connect to the computer using USB, and support either MTP or PTP protocol for transferring data):
+2. [Mobile devices](https://github.com/drivebadger/mobilebadger/wiki/Tested-systems) (all brands and models that connect to the computer using USB, and support either MTP or PTP protocol for transferring data):
 
 - Android phones, tablets and possibly other devices
 - iOS-based devices (iPhone, iPad)
